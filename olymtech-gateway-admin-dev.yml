@@ -13,7 +13,10 @@ hystrix:
           thread:
             timeoutInMilliseconds: 100000
 
+
 spring:
+  application:
+    name: olymtech-gateway-admin
   thymeleaf:
     prefix: classpath:/templates/
     suffix: .html
