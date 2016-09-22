@@ -1,5 +1,3 @@
-server:
-  port: 10092
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/olymtech-api-user?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
